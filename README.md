@@ -11,11 +11,11 @@ This folder contains the files to build a single-container web app (express, han
 
 NEEDS UPDATING
 This folder contains the files to build a multi-container web app with Compose.
-- Pthon flask app with redis cache
+- Python flask app with redis cache
 - Docker hub image: [nigelpoulton/gsd:compose-app](https://hub.docker.com/repository/docker/nigelpoulton/gsd)
 
 ## swarm-stack
 
 This folder contains the files to build a multi-container web app with Swarm Stacks.
-- Pthon flask app with redis cache that also returns hostname of container servicing request
+- Python flask app with redis cache that also returns hostname of container servicing request
 - Docker hub image: [nigelpoulton/gsd:swarm-stack](https://hub.docker.com/repository/docker/nigelpoulton/gsd)
